@@ -1,1 +1,1 @@
-# DM.Manager
+# dungeon-master-manager
